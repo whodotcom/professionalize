@@ -1,0 +1,13 @@
+# No node modules
+node_modules/
+
+popup.js
+
+# Annoyances
+\#*
+.#*
+.tern-port
+.DS_Store
+
+# Env
+.env
